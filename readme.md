@@ -38,11 +38,11 @@
 	Implemented features for legacy protocol system  
 	**Technical Environment** Oracle Database, PHP, Delphi.
 
-**SERPRO - Federal Data Processing Service (Serviço Federal de Processamento de Dados)** *Technical Consultant* __2014 to 2015__  
+**SERPRO - Federal Data Processing Service (Serviço Federal de Processamento de Dados)** *System Analist* __2014 to 2015__  
 	Managed a team of developers of several systems, including the Sinesp Cidadão app, a highly successful mobile application of Serpro.  
 	**Technical Environment** Project management, Scrum.
 
-**Ekysoft** *Technical Consultant* __2008 to 2013__   
+**Ekysoft** *CEO* __2008 to 2013__   
 	Architected and developed a complete CRM, point of sale and inventory system for small business  
 	**Technical Environment** Delphi, Mysql, Interbase.
 
