@@ -1,9 +1,8 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# Abraão Pessoa de Barros
+## Analista e Engenheiro de sistemas
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [abraaopessoa@yahoo.com.br](mailto:abraaopessoa@yahoo.com.br)
+> (81) 99131-6770
 
 ------
 
@@ -15,11 +14,7 @@
 1. Python
 1. Git / SVN
 1. Cordova
-<!-- 1. Spring / Wicket -->
 1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
 1. PostgreSQL / MySQL
 1. Backbone.js
 
