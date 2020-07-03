@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 # Abraão Pessoa de Barros
 ## Systems Analyst and Engineer
 
