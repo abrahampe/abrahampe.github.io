@@ -1,1 +1,1 @@
-"npm install -g markdown-resume" 
+npm install -g markdown-resume

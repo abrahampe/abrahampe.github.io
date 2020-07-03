@@ -1,13 +1,15 @@
 # Abraão Pessoa de Barros
 ## Systems Analyst and Engineer
 
-> [LinkedIn](https://www.linkedin.com/in/abraaopessoa/)
-> [abraaopessoa@yahoo.com.br](mailto:abraaopessoa@yahoo.com.br)
-> (81) 99131-6770
+------
+
+### Contact 
+* [abraaopessoa@yahoo.com.br](mailto:abraaopessoa@yahoo.com.br)
+* +55 (81) 99131-6770 
 
 ------
 
-### Technical
+### Technical skills
 
 1. PHP / Laravel
 1. React Native / NativeScript (Android/iOS)
@@ -27,21 +29,30 @@
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
+**MPF - Federal Prosecution Service** *System Analist* __2015 to present__
+    Federal Prosecution Service (Ministério Público Federal), charge of crimes judged by federal courts and federal civil activities. 
 	Designed Backbone.js based application to replace and improve upon existing legacy system.
 	Introduced BDD style testing using Jasmine/Karma into existing application code.
 	Developed modern solutions and features for large Enterprise Java systems.
 	Collaborated with and guided global team members transitioning to client side architecture.
 	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
+**CNMP - Superior Council of the Brazilian Prosecution Service** *System Analist* __2015__
+	Regulates the investigation made by the brazilian prosecutors
+    Designed and implemented features and improvements for multiple enterprise sized applications.
 	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
 	Provided quality solutions to mission critical production issues in a timely manner.
 	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
 	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
 
-**We Can Pretend** *Technical Consultant* __2011__
+**SERPRO** *Technical Consultant* __2014 to 2015__
+    Serpro is the largest Information Technology company providing services for the public sector in the world.
+	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
+	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
+	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
+	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
+
+**Ekysoft** *Technical Consultant* __2011__
 	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
 	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
 	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
@@ -81,5 +92,3 @@
 
 **Bachelor of Technology (Software Development)** __2003 to 2007__
 	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
-
----

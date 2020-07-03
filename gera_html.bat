@@ -1,1 +1,1 @@
-"md2resume readme.md" 
+md2resume readme.md 
