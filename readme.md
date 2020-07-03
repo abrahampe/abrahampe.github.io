@@ -1,6 +1,7 @@
 # Abraão Pessoa de Barros
-## Analista e Engenheiro de sistemas
+## Systems Analyst and Engineer
 
+> [LinkedIn](https://www.linkedin.com/in/abraaopessoa/)
 > [abraaopessoa@yahoo.com.br](mailto:abraaopessoa@yahoo.com.br)
 > (81) 99131-6770
 
@@ -8,15 +9,19 @@
 
 ### Technical
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
-1. Python
-1. Git / SVN
-1. Cordova
-1. Ruby
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. PHP / Laravel
+1. React Native / NativeScript (Android/iOS)
+1. HTML5 / CSS / Bootstrap
+1. Javascript / Vue.js 
+1. MySQL/Oracle/MsSql
+1. Unity / C# (Game development)
+1. Unix / Linux System Administration
+1. Project Management
+1. Delphi / Pascal
+1. Clipper / Dbase / Paradox
+
+
+
 
 ------
 
