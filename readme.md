@@ -39,7 +39,6 @@
 	**Technical Environment** Oracle Database, PHP, Delphi.
 
 **SERPRO - Federal Data Processing Service (Serviço Federal de Processamento de Dados)** *Technical Consultant* __2014 to 2015__  
-
 	Managed a team of developers of several systems, including the Sinesp Cidadão app, a highly successful mobile application of Serpro.  
 	**Technical Environment** Project management, Scrum.
 
