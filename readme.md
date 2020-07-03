@@ -29,7 +29,7 @@
 
 ### Experience
 
-**MPF - Federal Prosecution Service** *System Analist* __2015 to present__
+**MPF - Federal Prosecution Service** *System Analist* __2015 to present__  
     Federal Prosecution Service (Ministério Público Federal), charge of crimes judged by federal courts and federal civil activities. 
 	Designed Backbone.js based application to replace and improve upon existing legacy system.
 	Introduced BDD style testing using Jasmine/Karma into existing application code.
@@ -37,7 +37,7 @@
 	Collaborated with and guided global team members transitioning to client side architecture.
 	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
 
-**CNMP - Superior Council of the Brazilian Prosecution Service** *System Analist* __2015__
+**CNMP - Superior Council of the Brazilian Prosecution Service** *System Analist* __2015__  
 	Regulates the investigation made by the brazilian prosecutors
     Designed and implemented features and improvements for multiple enterprise sized applications.
 	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
@@ -45,14 +45,14 @@
 	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
 	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
 
-**SERPRO** *Technical Consultant* __2014 to 2015__
+**SERPRO** *Technical Consultant* __2014 to 2015__  
     Serpro is the largest Information Technology company providing services for the public sector in the world.
 	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
 	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
 	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
 	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
 
-**Ekysoft** *Technical Consultant* __2011__
+**Ekysoft** *Technical Consultant* __2011__  
 	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
 	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
 	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
